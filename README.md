@@ -2,8 +2,8 @@
 
 💻 Desarrollador Web | Apasionado por PHP y MySQL  
 🎨 Frontend: HTML, CSS, Bootstrap, JS mínimo  
-⚡ Backend: PHP puro, CRUDs, APIs REST  
-📚 Actualmente mejorando: integración de JS y frameworks ligeros
+⚡ Backend: PHP puro, CRUDs
+📚 Actualmente mejorando: integración de JS y frameworks ligeros en frontend-backend
 
 ### Proyectos destacados
 - 💧 WaterSysPay: sistema de pagos de agua en desarrollo

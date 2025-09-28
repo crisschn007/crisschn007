@@ -5,10 +5,10 @@
 ⚡ Backend: PHP puro, CRUDs
 📚 Actualmente mejorando: integración de JS y frameworks ligeros en frontend-backend
 
-### Proyectos destacados
-- 💧 WaterSysPay: sistema de pagos de agua en desarrollo
-- 🛒 Sistema de compras y ventas en desarrollo
-- 📂 Portafolio personal en desarrollo
+### Proyectos en desarrollo
+- 💧 WaterSysPay: sistema de pagos de agua (PHP, MySQL, Bootstrap) – *en progreso*
+- 🛒 Sistema de compras y ventas (PHP, MySQL, Bootstrap) – *en desarrollo*
+- 📂 CRUD en Django: gestión de clientes y productos (Django, Python, SQLite) – *completo*
 
 ### Tecnologías que uso
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)

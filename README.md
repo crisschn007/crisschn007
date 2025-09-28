@@ -20,7 +20,7 @@
 ### Bases de datos que manejo
 - MySQL
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-- SQL Server Management Studio (SSMS)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+- Microsoft SQL Server (SSMS)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 

@@ -8,7 +8,7 @@
 ### Proyectos en desarrollo
 - 💧 WaterSysPay: sistema de pagos de agua (PHP, MySQL, Bootstrap) – *en progreso*
 - 🛒 Sistema de compras y ventas (PHP, MySQL, Bootstrap) – *en desarrollo*
-- 📂 CRUD en Django: gestión de clientes y productos (Django, Python, SQLite) – *completo*
+- 📂 CRUD en Django: gestión de clientes y productos (Django, Python, PostgreSQL) – *completo*
 
 ### Tecnologías que uso
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
